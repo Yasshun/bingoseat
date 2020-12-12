@@ -3,6 +3,15 @@ body {
 
 }
 
+
+
+table {
+margin: auto;
+}
+
+
+
+
 th, td {
   background-color: pink;
   width: 40px;
